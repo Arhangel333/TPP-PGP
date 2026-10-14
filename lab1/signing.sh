@@ -1,0 +1,4 @@
+#! /bin/bash
+
+gpg -u 209561685DD9AE80CAFE3DC715C168EB3EA687ED -ba "$1" > "$1.asc"
+

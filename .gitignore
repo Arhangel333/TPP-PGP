@@ -3,3 +3,7 @@
 /signing.sh
 
 **/p
+
+*.asc
+*.docx
+*.txt
